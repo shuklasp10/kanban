@@ -22,6 +22,7 @@
       "esbenp.prettier-vscode"
       "dsznajder.es7-react-js-snippets"
       "pkief.material-icon-theme"
+      "ritwickdey.liveserver"
       # "vscodevim.vim"
     ];
 
